@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: HCM_Automation..Absence
+Bundle-Name: Absence
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: oracle.oats.jagent.lib3rdparty,oracle.oats.javaAgent,o
+ racle.oats.jagent.cmdline,org.apache.jakarta_log4j,oracle.oats.framew
+ ork,oracle.oats.utilities,org.eclipse.equinox.common,oracle.oats.lbro
+ wser,oracle.oats.parser,oracle.oats.scripting.modules.basic.api,oracl
+ e.oats.scripting.modules.utilities.api,oracle.oats.scripting.modules.
+ browser.api,oracle.oats.scripting.modules.functionalTest.api,oracle.o
+ ats.scripting.modules.functionalTest.common.api,oracle.oats.scripting
+ .modules.webdom.api,oracle.oats.scripting.modules.webdom.common.api,o
+ racle.oats.scripting.modules.image.api;bundle-version="[2.12.0,3.0.0)
+ ",oracle.oats.scripting.modules.datatable.api;bundle-version="[2.12.0
+ ,3.0.0)"
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+

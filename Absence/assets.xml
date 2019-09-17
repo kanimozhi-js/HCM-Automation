@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><assets>
+<asset alias="AbsenceRepo" local="true" primary="true" sourceType="file" type="OBJECTLIB">
+<location category="SprintAuto/SprintAuto" file="AbsenceRepo.properties" repository="TestRepo" type="repository"/>
+</asset>
+<asset alias="HCMfuntionLib" local="true" sourceType="file" type="SCRIPT">
+<location category="" file="HCMfuntionLib" repository="TestRepo" type="repository"/>
+</asset>
+</assets>
